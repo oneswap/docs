@@ -1,4 +1,4 @@
-# Metadata Standards
+# NFT Metadata Standards
 
 How to add rich metadata to your CRC721 or CRC1155 NFTs?
 
